@@ -8,7 +8,7 @@
 This repository contains resources to learn System Design concepts and prepare for interviews.
 
 ## 📌 System Design Key Concepts
-- [Scalability](https://blog.algomaster.io/p/scalability)
+- ~~[Scalability](https://blog.algomaster.io/p/scalability)~~
 - [CAP Theorem](https://blog.algomaster.io/p/15f1d791-86ce-40ed-8269-962dbddbefdb)
 - [ACID Transactions](https://blog.algomaster.io/p/ecae03ba-1930-42ef-8796-83e2fa818989)
 - [Consistent Hashing](https://highscalability.com/consistent-hashing-algorithm/)
@@ -144,7 +144,7 @@ This repository contains resources to learn System Design concepts and prepare f
 - [Success in Tech](https://www.youtube.com/@SuccessinTech/videos)
 
 ## 📜 Must-Read Engineering Articles
-- [How Discord stores trillions of messages](https://discord.com/blog/how-discord-stores-trillions-of-messages)
+- ~~[How Discord stores trillions of messages](https://discord.com/blog/how-discord-stores-trillions-of-messages)~~
 - [Building In-Video Search at Netflix](https://netflixtechblog.com/building-in-video-search-936766f0017c)
 - [How Canva scaled Media uploads from Zero to 50 Million per Day](https://www.canva.dev/blog/engineering/from-zero-to-50-million-uploads-per-day-scaling-media-at-canva/)
 - [How Airbnb avoids double payments in a Distributed Payments System](https://medium.com/airbnb-engineering/avoiding-double-payments-in-a-distributed-payments-system-2981f6b070bb)
